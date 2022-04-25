@@ -1,4 +1,4 @@
-# elecon_app
+# EleRdr
 
 A new Flutter project.
 
