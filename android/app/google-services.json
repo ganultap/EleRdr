@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966783604383",
+    "firebase_url": "https://elecon-app-default-rtdb.firebaseio.com",
+    "project_id": "elecon-app",
+    "storage_bucket": "elecon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966783604383:android:34eed34b3091b5657474aa",
+        "android_client_info": {
+          "package_name": "com.example.elecon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966783604383-krsigne7bbp1uv2bm54p8kfs9u1fr1k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq97Da4G-W9vfSSQhuOugB13T9Z-nrhFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966783604383-krsigne7bbp1uv2bm54p8kfs9u1fr1k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
